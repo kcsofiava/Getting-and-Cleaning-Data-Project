@@ -1,6 +1,7 @@
 ##Code Book
 This document describes my **run_analysis.R** code.
 
+##R Script Description
 The general outline of the code is as follows:
 * Set the working directory and load the relevant R packages
 * Load and name the data sets into global environment
